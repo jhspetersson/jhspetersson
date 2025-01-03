@@ -4,7 +4,7 @@
 
 I was never able to memorize all the options of `find`, so I wrote my own with syntax resembling SQL.
 
-Tons of various file characteristics to search against, interactive mode, export to JSON, and more.
+Tons of various file characteristics to search against, interactive mode, export to JSON, and much more.
 
 My first real experience with Rust, and I liked it!
 
@@ -14,7 +14,7 @@ Your local bug tracker. It saves everything in git repository, but under "hidden
 
 Supports syncing issues with GitHub, Gitlab and Jira (in development). Redmine and YouTrack are in the plans.
 
-Was presented on [GitMerge 2024](https://git-merge.com). For hardcore git CLI users.
+Was presented on [GitMerge 2024](https://git-merge.com) conference. For hardcore git CLI users.
 
 ♨️ [packrat](https://github.com/jhspetersson/packrat)
 
@@ -24,7 +24,7 @@ Planned to be finally released after JDK 24 going stable.
 
 🎮 [Q2048](https://github.com/jhspetersson/q2048)
 
-Being a huge fan of Quake, I participated in some kind of anniversary online event called QuakeExpo: people presenting their Quake mods, maps, models, whatever.
-Yes, it's been a while since tha brand shaked the gaming community for the first time. However, even today you can find all kinds of goodies for one of the most brilliant games ever.
+Being a huge fan of Quake, I participated in some kind of anniversary online event called [QuakeExpo](https://qexpo2016.com): people presenting their Quake mods, maps, models, whatever.
+Yes, it's been a while since the brand shaked the gaming community for the first time. However, even today you can find all kinds of goodies for one of the most brilliant games ever.
 
-This is a reimplementation of well-known [2048](https://play2048.co) puzzle on Quake engine.
+This is a remake of well-known [2048](https://play2048.co) puzzle on Quake engine.
