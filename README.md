@@ -1,10 +1,10 @@
 ## Hi, I'm Ivan, and here you can find a few projects of mine
 
-🦀 [fselect](https://github.com/jhspetersson/fselect) ⭐**4k**
+🦀 [fselect](https://github.com/jhspetersson/fselect) ⭐**4.1k**
 
 I was never able to memorize all the options of `find`, so I wrote my own with syntax resembling SQL.
 
-Tons of various file characteristics to search against, interactive mode, export to JSON, and much more.
+Tons of various file characteristics to search against, `.gitignore` support, interactive mode, export to JSON, and much more.
 
 My first real experience with Rust, and I liked it!
 
@@ -24,7 +24,7 @@ Planned to be finally released after JDK 24 going stable.
 
 🎮 [Q2048](https://github.com/jhspetersson/q2048)
 
+This is a remake of well-known [2048](https://play2048.co) puzzle on Quake engine.
+
 Being a huge fan of Quake, I participated in some kind of anniversary online event called [QuakeExpo](https://qexpo2016.com): people presenting their Quake mods, maps, models, whatever.
 Yes, it's been a while since the brand shaked the gaming community for the first time. However, even today you can find all kinds of goodies for one of the most brilliant games ever.
-
-This is a remake of well-known [2048](https://play2048.co) puzzle on Quake engine.
