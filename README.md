@@ -12,7 +12,7 @@ My first real experience with Rust, and I liked it!
 
 Your local bug tracker. It saves everything in git repository, but under "hidden" ref (you can make it visible along all other branches though).
 
-Supports syncing issues with GitHub, Gitlab and Jira (in development). Redmine and YouTrack are in the plans.
+Supports syncing issues with GitHub, Gitlab and Jira Cloud. Redmine and YouTrack are in the plans.
 
 Was presented on [GitMerge 2024](https://git-merge.com) conference. For hardcore git CLI users.
 
