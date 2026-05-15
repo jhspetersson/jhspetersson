@@ -8,6 +8,12 @@ Tons of various file characteristics to search against, `.gitignore` support, in
 
 My first real experience with Rust, and I loved it!
 
+🐢 [Turtle Commander](https://github.com/jhspetersson//turtle-commander)
+
+A dual-panel file manager integrated into IntelliJ-based IDEs, inspired by classic orthodox file managers like Total Commander and Far Manager.
+
+Smoothly works with nested archives, ultimate color configuration, themes (including classic NC), and a lot of other features.
+
 🦀 [git-task](https://github.com/jhspetersson/git-task)
 
 Your local bug tracker. It stores everything in a Git repository under a "hidden" ref (though you can make it visible alongside other branches).
