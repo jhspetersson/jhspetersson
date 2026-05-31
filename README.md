@@ -1,6 +1,6 @@
 ## Hi, I'm Ivan, and here you can find a few projects of mine
 
-🦀 [fselect](https://github.com/jhspetersson/fselect) ⭐**4.4k**
+🦀 [fselect](https://github.com/jhspetersson/fselect) ⭐**4.5k**
 
 I was never able to memorize all the options of `find`, so I wrote my own tool with SQL-like query syntax.
 
